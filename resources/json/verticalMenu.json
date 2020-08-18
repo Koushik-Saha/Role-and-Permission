@@ -5,8 +5,7 @@
       "submenu": [
         {"url":"/manpower/add-manpower", "name":"Add ManPower", "icon":"feather icon-plus-circle", "i18n":"nav.add_manpower"},
         {"url":"/manpower/add-designation", "name":"Add Designation", "icon":"feather icon-plus-circle", "i18n":"nav.add_designation"},
-        {"url":"/manpower/staff-list", "name":"Add Staff List", "icon":"feather icon-list", "i18n":"nav.staff_list"},
-        {"url":"/manpower/attendance/report", "name":"Attendance Report", "icon":"feather icon-anchor", "i18n":"nav.attendance_report"}
+        {"url":"/manpower/staff-list", "name":"Add Staff List", "icon":"feather icon-list", "i18n":"nav.staff_list"}
       ]
     }
 ]}
